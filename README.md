@@ -51,6 +51,6 @@ Navigate to the frontend folder:
     npm start
 
 
-The frontend will run on: http://localhost:3000
+The frontend will run on: http://localhost:8000
 
 Make sure the backend server is running before using the frontend.
